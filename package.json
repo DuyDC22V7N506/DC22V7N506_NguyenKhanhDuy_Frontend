@@ -4,6 +4,9 @@
     "axios": "^1.14.0",
     "bootstrap": "^4.6.2",
     "jquery": "^3.7.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "vee-validate": "^4.15.1",
+    "vue-router": "^4.6.4",
+    "yup": "^1.7.1"
   }
 }
